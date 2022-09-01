@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeraj-palat&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraj-palat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sreerajpalat" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sreerajpalat?logo=twitter&style=for-the-badge" alt="https://twitter.com/sreerajpalat" /></a> </p>
+
 
 - 🔭 I’m currently working on [e-commerce project](https://github.com/Sreeraj-palat/ashion---django-Ecommerce)
 
