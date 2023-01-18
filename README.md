@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [BottomFunnel Project](#)
+- 🔭 I’m currently working on [Brillersys](#)
 
-- 🌱 I’m currently learning **Rest-Api**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [sreerajpalat.in](sreerajpalat.in)
 
